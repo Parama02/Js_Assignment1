@@ -1,37 +1,37 @@
 
 //Variables 
 
-var StringName="Assignment1"
-var IntNumber=10
-var floatNumber=100.50
-var BooleanValue=true
+var StrName="Assignment1"
+var IntNum=10
+var floatNum=100.50
+var BooleanVal=true
 
 //console.log to get the output
 
-console.log(StringName)
-console.log(IntNumber)
-console.log(floatNumber)
-console.log(BooleanValue)
+console.log(StrName)
+console.log(IntNum)
+console.log(floatNum)
+console.log(BooleanVal)
 
 // VAR
 
 var pi=3.14
-var radius=2
-var Area= pi*(radius*radius)
+var r=2
+var Area= pi*(r*r)
 console.log(Area)
 
-var radius=5
+var r=5
 console.log(Area)
 
 // LET
 
 var mulTwo=2
-let circumference= mulTwo*pi*radius
+let circumference= mulTwo*pi*r
 console.log(circumference)
 
 // CONST
 
-const RadiusOfCircle=radius
+const RadiusOfCircle=r
 
 console.log(RadiusOfCircle)
 
